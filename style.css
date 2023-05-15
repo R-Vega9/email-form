@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  div{
+    margin: 10px ;
+  }
+  button {
+    margin-top: 10px;
+    display: flex;
+  }
+  label{
+    display: flex;
+  }
